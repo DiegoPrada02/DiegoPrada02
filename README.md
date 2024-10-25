@@ -12,7 +12,7 @@
   
 ### 💼 Work Experience
 
-- **Customer Service Associate** at The Home Depot (Feb 2020 - Apr 2023)
+- **Customer Service Associate** at The Home Depot (Aug 2024 - Present)
 - **Shift Leader** at HZ Coffee Group (Dunkin’) (Aug 2021 - Jun 2023)
   
 ### 🌟 Projects
