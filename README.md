@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme_content = """# 👋 Hi, I'm Diego Prada Ortiz  
+**👋 Hi, I'm Diego Prada Ortiz  **
 
 🎯 **Software Engineer | Full-Stack Developer | AI Enthusiast**  
 
