@@ -99,9 +99,3 @@ I’m passionate about building scalable, user-focused solutions across web, mob
 
 ⭐️ *"Code with purpose. Design with empathy. Build for impact."*  
 """
-
-# Save the README content to a file
-output_path = Path("/mnt/data/README.md")
-output_path.write_text(readme_content)
-
-output_path
